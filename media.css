@@ -1,0 +1,237 @@
+@media only screen and (max-width:360px)
+{
+    .photo, img{
+        height: 100px;
+        width: 100px;
+        margin-top: 20px;
+    }
+}
+
+@media only screen and (max-width:450px)
+{
+    .name_info, ul, h1{
+        display: inline-block;
+        font-size: medium;
+    };
+}
+
+@media only screen and (max-width:360px)
+{
+    .name_info,ul,li
+    {
+        display: inline-block;
+        font-size: 10.5px;
+        justify-content: center;
+    }
+}
+
+@media only screen and (max-width:360px)
+{
+    .objective ,h2{
+        font-size: small;
+    }
+}
+
+
+@media only screen and (max-width:360px)
+{
+    .objMain ,p{
+        font-size: 10.5px;
+        padding-left: 10px;
+    }
+}
+
+@media only screen and (max-width:360px)
+{
+    .academic,h3{
+        font-size: small;
+    }
+}
+
+@media only screen and (max-width:360px)
+{
+    .aca_details,table,th,tr,td{
+        font-size: small;
+        table-layout: auto;
+        width: 95%;
+        padding-left: 15%;
+        font-size: 10.5px;
+        
+    }
+}
+
+@media only screen and (max-width:360px)
+{
+    .skill, h3
+    {
+        font-size: small;
+        
+    }
+}
+
+
+@media only screen and (max-width:360px)
+{
+    .lang, div:first-child
+    {
+        font-size: 10.5px;
+        
+    }
+}
+
+@media only screen and (max-width:360px)
+{
+    .project h2, .prj_title h2
+    {
+        font-size: 10.5px;
+        ;
+    }
+}
+
+@media only screen and (max-width:360px)
+{
+    .prj_title 
+    {
+        margin-left: 50px;
+    }
+}
+
+@media only screen and (max-width:360px)
+{
+    .prj_desc 
+    {
+        margin-left: 20px;
+    }
+}
+
+@media only screen and (max-width:360px)
+{
+    .prj_desc ul li
+    {
+       font-size: 10.5px;
+       
+    }
+}
+
+@media only screen and (max-width:360px)
+{
+    .extra h2 
+    {
+        font-size: 10.5px;
+    }
+}
+
+@media only screen and (max-width:360px)
+{
+    .extra ul 
+    {
+        margin-left: 10px;
+    }
+}
+
+@media only screen and (max-width:360px)
+{
+    .certification h2 
+    {
+        font-size: 10.5px;
+    }
+}
+
+@media only screen and (max-width:360px)
+{
+    .cet_details 
+    {
+        margin-left: 10px;
+    }
+}
+
+@media only screen and (max-width:360px)
+{
+    .interest h2 
+    {
+        font-size: 10.5px;
+        margin-bottom: -20px;
+    }
+}
+
+@media only screen and (max-width:360px)
+{
+    .activities li 
+    {
+        margin-left: 10px;
+        
+    }
+}
+
+@media only screen and (max-width:360px)
+{
+    .activities i 
+    {
+        font-size: 10px;
+        
+    }
+}
+
+
+@media only screen and (max-width:360px)
+{
+    .strenghts h2 
+    {
+        font-size: 10.5px;
+        margin-bottom: -10px;
+    }
+}
+
+@media only screen and (max-width:360px)
+{
+    .str_content  
+    {
+        
+        margin-left: 10px;
+        
+    }
+}
+
+
+@media only screen and (max-width:360px)
+{
+    .strenghts ul li
+    {
+        
+        font-size: 10.5px;
+        display: block;
+        
+    }
+}
+
+@media only screen and (max-width:360px)
+{
+    .languages h2
+    {
+        
+        font-size: 10.5px;
+        margin-bottom: -10px;
+        
+    }
+}
+
+@media only screen and (max-width:360px)
+{
+    .types 
+    {
+        
+        font-size: 10.5px;
+        margin-left: 10px;
+        
+    }
+}
+
+@media only screen and (max-width:360px)
+{
+    .scoring 
+    {
+        
+       margin-left: 50px;
+        
+    }
+}
